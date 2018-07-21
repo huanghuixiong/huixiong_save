@@ -1,4 +1,8 @@
 two line11111222
 
+<<<<<<< HEAD
 add new line
 
+=======
+add new line2222222
+>>>>>>> dev
